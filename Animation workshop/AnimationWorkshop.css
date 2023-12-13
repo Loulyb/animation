@@ -1,6 +1,6 @@
 .animation {
-    width: 500px;
-    height: 500px;
+    width: 1000px;
+    height: 1000px;
     background: url('Ikke-angivet-2.png') 0 0 no-repeat;
     animation: play 10s steps(31) infinite;
 }
